@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "906161049153",
+    "firebase_url": "https://havertys-174909.firebaseio.com",
+    "project_id": "havertys-174909",
+    "storage_bucket": "havertys-174909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906161049153:android:5084fb8f3fea78d2",
+        "android_client_info": {
+          "package_name": "com.mbwedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906161049153-677u2hj3ms5jharnq1nm9nqg4m00kf2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwEaASla0Yf39wiIHhp7R1onF3ZknI64I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
